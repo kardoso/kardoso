@@ -1,4 +1,13 @@
-### Hi there <a href="https://www.linkedin.com/in/sscardoso"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Olá! <a href="https://www.linkedin.com/in/sscardoso"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+Me chamo Samuel. Sou desenvolvedor web e desenvolvedor de jogos. Sou formado em Jogos Digitais e Engenharia de Software.
+
+Atualmente estou trabalhando com Node e React! (Mas nos projetos pessoais vale de tudo).
+
+Meus interesses vagam entre jogos, leitura, novas tecnologias, desenhos, animações, idiomas e músicas (geralmente as menos conhecidas).
+
+Ah! Eu tenho um mini blog de versos/poesia onde uso apenas "S." como minha assinatura.
+<br/>Se você encontrar ele por aí eu fico te devendo uma pizza, ou um café ;)
+
 <div>
 <a href = "mailto:cardoso.samuel@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
 <a href="https://www.linkedin.com/in/sscardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
