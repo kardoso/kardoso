@@ -64,5 +64,5 @@ Ah! Eu tenho um mini blog de versos/poesia onde uso apenas "S." como minha assin
 
 ### 📚 Currently learning
 <p align="left">
-<img title="Swift" src="images/devicon/swift-original.svg" width="30">
+<img title="Godot" src="images/devicon/godot-original.svg" width="30">
 </p>
