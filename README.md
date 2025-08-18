@@ -7,7 +7,7 @@ Meus interesses vagam entre jogos, leitura, novas tecnologias, desenhos, animaç
 
 <div>
 <a href = "mailto:cardoso.samuel@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
-<a href="https://www.linkedin.com/in/sscardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
+<a href="https://www.linkedin.com/in/cardoso-samuel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
 <a href="https://kardoso.itch.io/" target="_blank"><img src="https://img.shields.io/badge/-Itch.io-FF2E51?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
 </div>
 
