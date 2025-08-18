@@ -1,18 +1,14 @@
 ### Olá! <a href="https://www.linkedin.com/in/sscardoso"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 Me chamo Samuel. Sou desenvolvedor web e desenvolvedor de jogos. Sou formado em Jogos Digitais e Engenharia de Software.
 
-Atualmente estou trabalhando com Node e React! (Mas nos projetos pessoais vale de tudo).
+Atualmente estou estudando Garantia de Qualidade e Testes de Software para entregar um trabalho ainda com mais qualidade.
 
 Meus interesses vagam entre jogos, leitura, novas tecnologias, desenhos, animações, idiomas e músicas (geralmente as menos conhecidas).
-
-Ah! Eu tenho um mini blog de versos/poesia onde uso apenas "S." como minha assinatura.
-<br/>Se você encontrar ele por aí eu fico te devendo uma pizza, ou um café ;)
 
 <div>
 <a href = "mailto:cardoso.samuel@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
 <a href="https://www.linkedin.com/in/sscardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
 <a href="https://kardoso.itch.io/" target="_blank"><img src="https://img.shields.io/badge/-Itch.io-FF2E51?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/__samuelcardoso" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1A8CD8?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
 </br>
@@ -60,9 +56,4 @@ Ah! Eu tenho um mini blog de versos/poesia onde uso apenas "S." como minha assin
 ### 🎮 Game Dev
 <p>
     <img title="Unity" src="images/devicon/unity-original.svg" width="30">
-</p>
-
-### 📚 Currently learning
-<p align="left">
-<img title="Godot" src="images/devicon/godot-original.svg" width="30">
 </p>
