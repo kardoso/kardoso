@@ -1,40 +1,40 @@
-> 🌎 Disponível em: [Português](README-pt.md)
+> 🌎 Available in: [English](README.md)
 
 <h1 align="center">Samuel Cardoso</h1>
 <p align="center"><strong>Full Stack Developer • Backend & APIs • Game Developer</strong></p>
 
 ---
 
-## 👨‍💻 About me
-I am a software developer with experience in **backend, frontend, and game development**, working with Java, Spring, JavaScript, React, Node.js, C#, .NET, and Python. I build APIs, web applications, integrations between systems, and automated testing workflows. I also develop games with Unity & C#, combining engineering and creativity.
+## 👨‍💻 Sobre mim
+Sou desenvolvedor de software com experiência em **backend, frontend e desenvolvimento de jogos**, atuando com Java, Spring, JavaScript, React, Node.js, C#, .NET e Python. Trabalho na construção de APIs, aplicações web, integrações entre sistemas e automação de testes. Também desenvolvo jogos com Unity & C#, unindo engenharia e criatividade.
 
-My background in **Software Engineering** and **Digital Games**, along with a postgraduate specialization in **Software Testing & Quality**, gives me a complete view of the development cycle; from planning to delivery, from architecture to quality assurance.
+Minha formação em **Engenharia de Software** e **Jogos Digitais**, junto da pós-graduação em **Teste e Qualidade de Software**, me proporciona uma visão completa do ciclo de desenvolvimento; do planejamento à entrega, da arquitetura à garantia de qualidade.
 
-I enjoy designing scalable systems, writing clean code, and learning new technologies.
-
----
-
-## 🌱 Areas of Interest
-- Software Engineering  
-- Backend Development  
-- API Architecture  
-- Test Automation  
-- Cloud, DevOps & Observability  
-- Game Development (Unity & C#)  
+Gosto de projetar sistemas escaláveis, escrever código limpo e aprender novas tecnologias.
 
 ---
 
-## 🚀 What I do  
-- Backend development with Java (Spring), Node.js, and Python  
-- Building REST/SOAP APIs, integrations, and microservices  
-- Frontend development with React, Angular, and modern JavaScript  
-- Test automation (Playwright, Postman, Cypress)  
-- Docker, containers, and engineering best practices  
-- Game development in Unity, gameplay systems, and prototyping  
+## 🌱 Áreas de Interesse  
+- Engenharia de Software  
+- Desenvolvimento Backend  
+- Arquitetura de APIs  
+- Automação de Testes  
+- Cloud, DevOps & Observabilidade  
+- Desenvolvimento de Jogos (Unity & C#)  
 
 ---
 
-## 🔧 Technologies I like working with
+## 🚀 O que eu faço  
+- Desenvolvimento backend com Java (Spring), Node.js e Python  
+- Construção de APIs REST/SOAP, integrações e microsserviços  
+- Desenvolvimento frontend com React, Angular e JavaScript moderno  
+- Automação de testes (Playwright, Postman, Cypress)  
+- Docker, containers e boas práticas de engenharia  
+- Desenvolvimento de jogos em Unity, gameplay systems e prototipação  
+
+---
+
+## 🔧 Tecnologias que gosto de usar
 
 ### **Front-End**
 <p align="left">
@@ -66,7 +66,7 @@ I enjoy designing scalable systems, writing clean code, and learning new technol
   <img src="images/devicon/microsoftsqlserver-plain.svg" width="32" title="SQL Server"/>
 </p>
 
-### **Tools & Others**
+### **Ferramentas & Outros**
 <p align="left">
   <img src="images/devicon/docker-original.svg" width="32" title="Docker"/>
   <img src="images/devicon/apachekafka-original.svg" width="32" title="Apache Kafka"/>
@@ -83,7 +83,7 @@ I enjoy designing scalable systems, writing clean code, and learning new technol
 
 ---
 
-## 📫 Where to find me
+## 📫 Onde me encontrar
 - **LinkedIn:** https://www.linkedin.com/in/cardoso-samuel  
 - **Email:** cardoso.samuel@outlook.com  
 - **Itch.io:** https://kardoso.itch.io  
